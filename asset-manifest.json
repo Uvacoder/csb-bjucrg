@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://uvacoder.github.io/csb-bjucrg/static/css/main.e609fd41.chunk.css",
+    "main.js": "https://uvacoder.github.io/csb-bjucrg/static/js/main.95f49d47.chunk.js",
+    "main.js.map": "https://uvacoder.github.io/csb-bjucrg/static/js/main.95f49d47.chunk.js.map",
+    "runtime-main.js": "https://uvacoder.github.io/csb-bjucrg/static/js/runtime-main.debb97e3.js",
+    "runtime-main.js.map": "https://uvacoder.github.io/csb-bjucrg/static/js/runtime-main.debb97e3.js.map",
+    "static/js/2.21717c79.chunk.js": "https://uvacoder.github.io/csb-bjucrg/static/js/2.21717c79.chunk.js",
+    "static/js/2.21717c79.chunk.js.map": "https://uvacoder.github.io/csb-bjucrg/static/js/2.21717c79.chunk.js.map",
+    "index.html": "https://uvacoder.github.io/csb-bjucrg/index.html",
+    "static/css/main.e609fd41.chunk.css.map": "https://uvacoder.github.io/csb-bjucrg/static/css/main.e609fd41.chunk.css.map",
+    "static/js/2.21717c79.chunk.js.LICENSE.txt": "https://uvacoder.github.io/csb-bjucrg/static/js/2.21717c79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.debb97e3.js",
+    "static/js/2.21717c79.chunk.js",
+    "static/css/main.e609fd41.chunk.css",
+    "static/js/main.95f49d47.chunk.js"
+  ]
+}
